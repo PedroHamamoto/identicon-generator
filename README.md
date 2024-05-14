@@ -7,5 +7,5 @@ This application was developed following this [Udemy Course](https://www.udemy.c
 iex> IdenticonGenerator.main("PedroHamamoto") 
 ```
 
-The result is a identicon like the one below
+The result is a identicon like the one below\
 ![PedroHamamoto identicon](static/PedroHamamoto.png)
