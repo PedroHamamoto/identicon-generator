@@ -24,3 +24,6 @@ identicon_generator-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# mix
+mix.lock
